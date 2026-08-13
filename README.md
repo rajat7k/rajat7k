@@ -1,157 +1,117 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rajat%20Kaushik&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20Microfrontends&descAlignY=56&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,24&height=180&section=header&text=Rajat%20Kaushik&fontSize=46&fontColor=0969DA&animation=fadeIn&fontAlignY=40&desc=frontend%20engineer%20%C2%B7%20AI-native%20builder%20%C2%B7%203%2B%20years&descAlignY=62&descAlign=50" alt="header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=00F0FF&center=true&vCenter=true&repeat=true&width=720&lines=Hey%2C+I'm+Rajat+%F0%9F%91%8B;SDE+%40+NxtWave;React+%7C+Next.js+%7C+MobX+%7C+XState;Building+scalable+frontend+platforms" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&repeat=true&width=680&lines=hey%2C+I'm+Rajat+%F0%9F%91%8B;I+ship+frontend+at+NxtWave;I+teach+AI+to+review+my+PRs;LeetCode+after+hours" alt="typing" />
 
-  <br />
-
-  <a href="https://rajat7k-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rajat7k--portfolio.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=00f0ff" alt="portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/rajat7k/"><img src="https://img.shields.io/badge/LinkedIn-rajat7k-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin" /></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/rajat7k/"><img src="https://img.shields.io/badge/LeetCode-rajat7k-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="leetcode" /></a>
-
-  <br /><br />
-
-  <a href="mailto:kaushikrajat777@gmail.com"><img src="https://img.shields.io/badge/Email-kaushikrajat777@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" /></a>
-  &nbsp;
-  <a href="https://github.com/rajat7k"><img src="https://img.shields.io/badge/GitHub-rajat7k-0d1117?style=for-the-badge&logo=github&logoColor=ff00aa" alt="github" /></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=rajat7k&label=Profile+views&color=00f0ff&style=for-the-badge" alt="profile views" />
+  <p>
+    <a href="https://rajat7k-portfolio.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0969DA?style=flat-square&logo=vercel&logoColor=white" alt="portfolio" /></a>
+    <a href="https://www.linkedin.com/in/rajat7k/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+    <a href="https://leetcode.com/u/rajat7k/"><img src="https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="leetcode" /></a>
+    <a href="mailto:kaushikrajat777@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+    <a href="https://github.com/rajat7k"><img src="https://img.shields.io/badge/github-24292F?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
+    <img src="https://komarev.com/ghpvc/?username=rajat7k&label=views&color=0969da&style=flat-square" alt="views" />
+  </p>
 </div>
 
 ---
 
-<div align="center">
+### hey
 
-## ⚡ About Me
+I build product UIs that have to survive real users — live classes, payments, onboarding, the messy middle of ed-tech.
 
-</div>
+**3+ years** as an SDE at [NxtWave](https://www.nxtwave.tech/). Days are React / TypeScript / XState. Nights are usually a LeetCode tab and some experiment with Cursor.
 
-SDE @ **NxtWave** · Frontend Engineer with **2.5+ years** building scalable, user-centric web apps.
-
-I specialize in **React, Next.js, MobX, XState, and microfrontends** — performance, accessibility, and architecture that lets teams ship independently without breaking the product.
-
-- 🔭 Building config-driven platforms, payments, and live-class experiences at NxtWave
-- 🧠 Into module federation, GraphQL, and Cursor AI rules that generate service layers from Swagger
-- 🧩 DSA on the side · [LeetCode](https://leetcode.com/u/rajat7k/)
-- 📫 [kaushikrajat777@gmail.com](mailto:kaushikrajat777@gmail.com) · [Portfolio](https://rajat7k-portfolio.vercel.app/) · [Resume](https://drive.google.com/file/d/1hnY98uI_WhPD8u2TyLS1U-s3DSFAUCgh/view?usp=drive_link)
+Not trying to be a full-stack everything person. I just like making frontend systems that teams can actually extend.
 
 ---
 
-<div align="center">
+### right now I'm running
 
-## 💼 Experience
+- a **freemium** product-led growth surface — small team, Shadcn, AWS pipelines, shipping fast
+- **auth-sdk + auth-core** — internal npm packages so 6+ apps don't reinvent SSO
+- a 3-layer frontend setup we keep reusing: **TanStack Query** for data, **XState** for business flow, **Shadcn** for UI
+- interviews for SDE folks when hiring is on
 
-</div>
-
-**SDE @ NxtWave** — 2023–Present  
-Scalable frontend architectures with microfrontends, config-driven forms, GraphQL, and Cursor AI + Swagger rule builder.
-
-`React` `Next.js` `MobX` `GraphQL` `Microfrontends`
-
-**Intern @ NxtWave** — 2023  
-Frontend features with React + MobX, plus Jest and Cypress coverage.
-
-`React` `MobX` `Jest` `Cypress`
+Mostly Hyderabad energy, Hathras roots.
 
 ---
 
-<div align="center">
+### how I actually use AI
 
-## 🛠️ Tech Stack
+I don't paste "write this feature" and walk away.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,graphql,nodejs,mongodb,jest,webpack,git,github,vscode" alt="skills" />
+I use **Cursor + Claude + Copilot** as extra hands: Cursor rules that turn Swagger JSON into Zod schemas and API hooks, an **AI PR review agent** we wired onto AWS CodeCommit, and Copilot for the glue code I'd rather not type twice.
+
+The fun part isn't autocomplete. It's teaching the tools *our* architecture so they stop inventing a fourth state library.
+
+If you want the longer version of how I think about JS internals, I wrote about [Proxy objects](https://www.linkedin.com/pulse/understanding-proxy-objects-frontend-development-rajat-kaushik-4vrbc/).
+
+---
+
+### off the clock
+
+- 🧩 grinding DSA on [LeetCode](https://leetcode.com/u/rajat7k/)
+- ✍️ writing tiny frontend deep-dives when something clicks
+- 📱 old muscle memory in Flutter (yes, the gadgets shop app is still up there)
+- 🎮 breaking toy UIs just to see how far XState can go
+- ☕ over-explaining module federation to anyone who makes the mistake of asking
+
+---
+
+### tools I reach for
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,html,css,tailwind,redux,graphql,nodejs,mongodb,aws,jest,git,github,vscode" alt="skills" />
 </p>
 
-**Frontend** — React · Next.js · TypeScript · Tailwind · styled-components  
-**State** — XState · MobX · Redux · Context API  
-**Architecture** — Microfrontends · Module Federation · Nx monorepos · Design systems  
-**Testing & tools** — Jest · Cypress · GraphQL · Swagger · Cursor AI rules
-
-</div>
+React · Next.js · React Native · TypeScript · XState · MobX · Django · AWS · Salesforce when the CRM has to talk to the product
 
 ---
 
-<div align="center">
+### a few things I'm proud of
 
-## 🚀 Featured Work
+not a metrics dump — just the ones I'd actually talk about over coffee
 
-</div>
+- **live class / webinar** — Zoom SDK, millions of learners, a thousand sessions a month. still the feature people mention first
+- **accounts & forms** — config-driven forms + microfrontends, so product folks edit JSON instead of waiting on a ticket
+- **NIAT applications** — GraphQL + React Query portal for a lot of student applications, with Sentry watching the night shift
+- **doctor appointment app** — side project, full MERN, the one I still send when someone asks "can you do backend too?"
 
-| Project | What I shipped |
-| --- | --- |
-| **Accounts & Forms Platform** | Microfrontend + Nx merge cut one app codebase **40%**. Config-driven forms cut manual effort **55%** and errors **70%** (~16 hrs/week saved). Zod + Cursor AI Swagger codegen. |
-| **NIAT Application Portal** | End-to-end student applications, lead conversion, GraphQL/REST via react-query, Sentry + GA/Segment. |
-| **Webinar & Live Class** | Zoom SDK live classes · **1000+ sessions/month** · used by millions · **+12%** lead conversion. |
-| **Payments Portal** | Razorpay + Juspay, installments, live status, receipts. |
+more on the [portfolio](https://rajat7k-portfolio.vercel.app/)
 
-Public builds:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/rajat7k/Doctor-Appointment-Booking-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat7k&repo=Doctor-Appointment-Booking-App&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00AA" alt="Doctor Appointment Booking App" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/rajat7k/nextjs-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat7k&repo=nextjs-dashboard&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00AA" alt="Next.js Dashboard" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/rajat7k/nxt-watch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat7k&repo=nxt-watch&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00AA" alt="Nxt Watch" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/rajat7k/Gadgets-Flutter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat7k&repo=Gadgets-Flutter&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00AA" alt="Gadgets Flutter" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/rajat7k/Doctor-Appointment-Booking-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat7k&repo=Doctor-Appointment-Booking-App&theme=transparent&hide_border=true" alt="Doctor Appointment Booking App" /></a>
+  <a href="https://github.com/rajat7k/nextjs-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajat7k&repo=nextjs-dashboard&theme=transparent&hide_border=true" alt="Next.js Dashboard" /></a>
+</p>
 
 ---
 
-<div align="center">
+### github, without the dark boxes
 
-## 📊 GitHub Analytics
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rajat7k&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rajat7k&show_icons=true&hide_border=true&theme=default" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat7k&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat7k&layout=compact&langs_count=6&hide_border=true&theme=default" alt="top languages" />
+  </picture>
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajat7k&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=FF00AA&ring_color=00F0FF" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat7k&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=rajat7k&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF00AA&currStreakNum=00F0FF&sideNums=C9D1D9&currStreakLabel=FF00AA&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajat7k&bg_color=0d1117&color=00f0ff&line=ff00aa&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/rajat7k/rajat7k/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajat7k/rajat7k/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/rajat7k/rajat7k/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  </picture>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  say hi · <a href="https://rajat7k-portfolio.vercel.app/">portfolio</a> · <a href="https://www.linkedin.com/in/rajat7k/">linkedin</a> · <a href="mailto:kaushikrajat777@gmail.com">email</a>
+</p>
 
-**Open to interesting frontend work.**
-
-<a href="https://rajat7k-portfolio.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/rajat7k/">LinkedIn</a> ·
-<a href="mailto:kaushikrajat777@gmail.com">Email</a> ·
-<a href="https://leetcode.com/u/rajat7k/">LeetCode</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,24&height=100&section=footer" alt="footer" />
+</p>
