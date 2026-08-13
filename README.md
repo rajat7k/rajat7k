@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,24&height=200&section=header&text=Rajat%20Kaushik&fontSize=54&fontColor=0969DA&animation=twinkling&fontAlignY=38&desc=SDE%20%40%20NxtWave%20%C2%B7%203%2B%20years%20%C2%B7%20React%20%C2%B7%20AI&descAlignY=58&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,24&height=200&section=header&text=Rajat%20Kaushik&fontSize=54&fontColor=0969DA&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%203%2B%20years%20%C2%B7%20React%20%C2%B7%20AI&descAlignY=58&descAlign=50" alt="header" />
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=600&color=0969DA&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hey%2C+I'm+Rajat;Frontend+Engineer+%40+NxtWave;React+%7C+Next.js+%7C+XState;Building+with+Cursor+%2B+Claude" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=600&color=0969DA&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hey%2C+I'm+Rajat;Software+Engineer;Building+OldMachine;React+%7C+Next.js+%7C+AI" alt="typing" />
 
   <br /><br />
 
   <a href="https://rajat7k-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://oldmachine.in/">
+    <img src="https://img.shields.io/badge/OldMachine-1F6FEB?style=for-the-badge&logo=shopify&logoColor=white" height="40" alt="oldmachine" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rajat7k/">
@@ -30,6 +34,19 @@
 
   <img src="https://komarev.com/ghpvc/?username=rajat7k&label=Profile%20views&color=0969da&style=for-the-badge" height="32" alt="views" />
 </div>
+
+---
+
+**Software engineer** with **3+ years** building web products in React, Next.js, and TypeScript.
+
+I like clean UI, solid frontend architecture, and using **Cursor / Claude / Copilot** as extra hands — not as a replacement for thinking.
+
+Also co-founder of **[OldMachine](https://oldmachine.in/)** — a marketplace to buy and sell used industrial machinery across India (CNC, lathes, fabrication, plant equipment). I lead product and engineering there.
+
+- 🔭 Shipping [OldMachine](https://oldmachine.in/)
+- 🧠 Playing with AI-assisted coding and frontend architecture
+- 🧩 DSA on [LeetCode](https://leetcode.com/u/rajat7k/)
+- ✍️ Occasional notes on JS internals
 
 ---
 
